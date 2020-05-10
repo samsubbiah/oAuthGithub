@@ -27,5 +27,5 @@ There are three components involved
 ![Screenshot](GitHubOAuth.jpg)
 
 # Sequence Diagram
-![Screenshot] (Sequence Diagram.jpg)
+![Screenshot] (Sequence_Diagram.jpg)
 
