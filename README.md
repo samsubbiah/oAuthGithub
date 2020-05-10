@@ -24,3 +24,4 @@ There are three components involved
 3. Github the Authentication Provider
 
 
+![Screenshot](GitHubOAuth.jpg)
