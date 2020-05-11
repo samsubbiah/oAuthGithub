@@ -28,4 +28,6 @@ There are three components involved
 
 # Observation: 
 
-1. Spring Boot Framework provides all integration capabilities. Only Client Id and clientSecret are configured.
+1. Spring Boot Framework provides all integration capabilities. Only Client Id and clientSecret are configured. Springboot shines by having to write less code.
+2. Token is short lived.Once the token expires , client needs to re-authenticate  themselves. This is the power of token based Authorization. 
+3. Clients username/password is unknown for the service provider. 
