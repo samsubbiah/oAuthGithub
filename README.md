@@ -26,3 +26,6 @@ There are three components involved
 # Sequence Diagram : 
 ![Screenshot](Sequence_Diagram.jpg)
 
+# Observation: 
+
+1. Spring Boot Framework provides all integration capabilities. Only Client Id and clientSecret are configured.
